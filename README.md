@@ -2,7 +2,7 @@
 
 A repository for personal project to study data science and machine learning:
 
-## Articles:
+## Articles
 
 * Ep.01 - [A study about work accidents in Brazil](https://arthursgonzaga.medium.com/dataproject-um-estudo-sobre-acidentes-de-trabalho-no-brasil-ep-01-87ba4df4569)
 
